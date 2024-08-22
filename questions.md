@@ -12,4 +12,4 @@ Can you help Bob and Jake find the correct maximum sum?
 
 ### Solution:
 
-The detailed solution can be found in [Solutions\solution1.c](solution1.c).
+The detailed solution can be found in [placement-questions-and-solutions/Solutions/solution1.c](solution1.c).
