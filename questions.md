@@ -16,12 +16,19 @@ The detailed solution can be found here - [Go to Solution](https://github.com/Yu
 
 ## 2. Given an array of integers, where all elements but one occur twice, find the unique element.
 
+### Problem Statement
+
 Example
-a = [1,2,3,4,3,2,1];
 
-#### Constraints
+- a = [1,2,3,4,3,2,1];
+- The unique element is 4.
 
-1<= n <100
-it is guranteed that n is an odd number and that there is one unique element.
-0<=a[i]<=100,where
-0<= i< n.
+**Constraints**
+
+- 1 ≤ n < 100
+- It is guaranteed that n is an odd number and that there is one unique element.
+- 0 ≤ a[i] ≤ 100, where 0 ≤ i < n.
+
+### Solution:
+
+The detailed solution can be found here - [Go to Solution](https://github.com/Yuvrajsrsingh/placement-questions-and-solutions/blob/main/Solutions/solution2.c)
