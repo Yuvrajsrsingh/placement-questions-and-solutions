@@ -12,22 +12,16 @@ Can you help Bob and Jake find the correct maximum sum?
 
 ### Solution:
 
-The detailed solution can be found here - [https://github.com/Yuvrajsrsingh/placement-questions-and-solutions/blob/main/Solutions/solution1.c](solution1.c).
+The detailed solution can be found here - [Go to Solution](https://github.com/Yuvrajsrsingh/placement-questions-and-solutions/blob/main/Solutions/solution1.c)
 
 ## 2. Given an array of integers, where all elements but one occur twice, find the unique element.
 
 Example
 a = [1,2,3,4,3,2,1];
 
-The unique element is 4.
+#### Constraints
 
-Function Description
-
-Complete the lonelyinteger function in the editor below.
-
-lonelyinteger has the following parameter(s):
-
-int a[n]: an array of integers
-Returns
-
-int: the element that occurs only once
+1<= n <100
+it is guranteed that n is an odd number and that there is one unique element.
+0<=a[i]<=100,where
+0<= i< n.
