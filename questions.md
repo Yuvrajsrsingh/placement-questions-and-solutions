@@ -1,4 +1,4 @@
-# Placement Questions
+# Commonly Asked Data Structure Interview Question
 
 ## 1. Maximizing the Sum of Even and Odd Digits in a Number
 
@@ -12,4 +12,22 @@ Can you help Bob and Jake find the correct maximum sum?
 
 ### Solution:
 
-The detailed solution can be found here - [placement-questions-and-solutions/Solutions/solution1.c](solution1.c).
+The detailed solution can be found here - [https://github.com/Yuvrajsrsingh/placement-questions-and-solutions/blob/main/Solutions/solution1.c](solution1.c).
+
+## 2. Given an array of integers, where all elements but one occur twice, find the unique element.
+
+Example
+a = [1,2,3,4,3,2,1];
+
+The unique element is 4.
+
+Function Description
+
+Complete the lonelyinteger function in the editor below.
+
+lonelyinteger has the following parameter(s):
+
+int a[n]: an array of integers
+Returns
+
+int: the element that occurs only once
