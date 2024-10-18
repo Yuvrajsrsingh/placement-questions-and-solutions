@@ -1,4 +1,4 @@
-# Placement Questions and Solutions
+# DSA Questions and Solutions
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository contains a collection of placement questions and their solutions
 
 ## Repository Structure
 
-- **questions.md:** Contains various placement questions categorized by topic.
+- **questions.md:** Contains various questions categorized by topic.
 - **solution1.c, solution2.c, etc.:** Solutions to the questions provided in the `questions.md` file.
 
 ## How to Use

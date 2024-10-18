@@ -1,4 +1,4 @@
-# Commonly Asked Data Structure Interview Question
+# DSA Questions
 
 ## 1. Maximizing the Sum of Even and Odd Digits in a Number
 
